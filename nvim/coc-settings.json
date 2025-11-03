@@ -1,0 +1,12 @@
+{
+    "suggest.noselect": true,
+    "svelte.enable-ts-plugin": true,
+    "svelte.plugin.css.diagnostics.enable": false,
+    "tailwindCSS.includeLanguages": {
+        "eelixir": "html",
+        "elixir": "html",
+        "eruby": "html",
+        "html.twig": "html",
+        "svelte": "html"
+    }
+}
