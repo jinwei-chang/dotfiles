@@ -1,2 +1,5 @@
 # exclude sensitive data
 .env
+
+# lazy
+nvim/lazy-lock.json
